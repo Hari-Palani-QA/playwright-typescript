@@ -1,0 +1,15 @@
+{
+  "userA": {
+    "username": "SuperUser",
+    "password": "QA@2025",
+    "company": "TPT",
+    "location": "HO CHI MINH"
+  },
+  "userB": {
+    "username": "PHAMCX7",
+    "password": "OneAbbott@1717",
+    "company": "PHAMCX7",
+    "location": "HO CHI MINH"
+  }
+}
+
