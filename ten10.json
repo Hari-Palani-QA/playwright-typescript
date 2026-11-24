@@ -1,0 +1,45 @@
+{
+  "cookies": [
+    {
+      "name": "frontend_lang",
+      "value": "en_IN",
+      "domain": "ten10.in",
+      "path": "/",
+      "expires": 1827035317.505298,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "session_id",
+      "value": "eJ4XH6XWKSjRzieapSmekZniZ018qeNJIIMXodelkQEToZrseN4WZYnuifnriw8Hhn8ejVPMg4XKNmwSDp4H",
+      "domain": "ten10.in",
+      "path": "/",
+      "expires": 1796104117.506795,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tz",
+      "value": "Asia/Calcutta",
+      "domain": "ten10.in",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://ten10.in",
+      "localStorage": [
+        {
+          "name": "presence.lastPresence",
+          "value": "1795499345156"
+        }
+      ]
+    }
+  ]
+}
