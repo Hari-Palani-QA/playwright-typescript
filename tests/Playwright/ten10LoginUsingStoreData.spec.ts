@@ -19,7 +19,7 @@ await page.goto(url);
 
     await page.goto(url);
 
-    const messageLocator = page.locator('.o-mail-Message-body');
+    const messageLocator = page.locator('.o-mail-Message-body');//Test
     const threadContainer = page.locator('.o-mail-Thread');
 
     // 1. Wait for messages to load
