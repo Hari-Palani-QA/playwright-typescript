@@ -55,7 +55,7 @@ await page
 
 test.skip('Switch page 2',async({page})=>{
  await page.goto("http://192.168.0.150:8098/apps");
- await page.waitForLoadState(); //testQA
+ await page.waitForLoadState(); //testQA1
    //login
     const logindata=new LoginPage(page);
     await logindata.login('SuperUser','QA@2025','TPT','HO CHI MIN');
