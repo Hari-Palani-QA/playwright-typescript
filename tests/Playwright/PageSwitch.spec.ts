@@ -59,3 +59,9 @@ test.skip('Switch page 2',async({page})=>{
     await logindata.login('SuperUser','QA@2025','TPT','HO CHI MIN');
     await page.getByRole('menuitem',{name:' Manage Invoice'}).click();
 });
+
+test ("Check GIt Updated",async({page})=>{
+
+//test nov 28
+
+})
