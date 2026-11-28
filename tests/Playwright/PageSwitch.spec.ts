@@ -49,8 +49,6 @@ await page
     await Swpage.bringToFront();
 
   await Swpage.locator("input[name='1|0|Description']").fill("QA test 2");
-  
-
 });
 
 test.skip('Switch page 2',async({page})=>{
