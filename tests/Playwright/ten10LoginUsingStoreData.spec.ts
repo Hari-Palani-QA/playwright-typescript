@@ -10,11 +10,8 @@ const page=await conx.newPage();
 
 await page.goto(url);
  const targetDates: string[] = [
-        '20NOV2026',
-        '21NOV2026',
-        '22NOV2026',
-        '23NOV2026',
-        '24NOV2026'
+        '25NOV2026',
+        '26NOV2026'
     ];
 
     await page.goto(url);
